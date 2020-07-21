@@ -1,2 +1,8 @@
 # data_mining_with_song_recognition
- This was the first attemtp to NLP and web scrapping. So both are quite simple and the code not really clean. More complex and refined examples will come in due time
+ 
+ ## Project Purpose:
+ Create a program that through the use of a user interface does:
+ Scrape a band lyrics website. Request the user 2 band names to scrape the lyrics from. Then train a natural language processing (NLP) model for text recognition. And ask the user to write a sentence of a song of either band. Finally predict which band has that on its lyrics.
+ 
+ ### Notes:
+ this was my first attempt in web scrapping with beautifulsoup and regex. Also in training a MultinomialNB model. I hope the prompted text and the whole functionality is fun :)
